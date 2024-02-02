@@ -1,0 +1,3 @@
+:Prompt Y,A,C,B
+:((log(Y/A)/log(C))/B)→X
+:Disp X
